@@ -2,3 +2,5 @@ lazydocker*
 TODO.md
 Lazydocker.code-workspace
 .vscode
+config
+makefile

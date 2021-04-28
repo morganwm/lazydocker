@@ -415,6 +415,11 @@ func GetDefaultConfig() UserConfig {
 					StatPath: "DerivedStats.MemoryPercentage",
 					Color:    "green",
 				},
+				{
+					Caption:  "Memory",
+					StatPath: "DerivedStats.MemoryUsageMB",
+					Color:    "green",
+				},
 			},
 		},
 	}
